@@ -1,0 +1,32 @@
+{
+  "name": "password-encryptor",
+  "version": "1.0.4",
+  "authors": [
+    "Patricio López <patricio@lopezjuri.com>",
+    "Sebastián Salata <SA.SalataRT@GMail.com>"
+  ],
+  "description": "Generate your own MD5, SHA1, SHA512 and SHA3 encrypted passwords.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "password-encryptor"
+  ],
+  "main": "password-encryptor.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/IIC3585-2015-2/Grupo-3/tree/master/05-Polymer/password-encryptor",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "paper-elements": "polymerelements/paper-elements#~1.0.5",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "cryptojslib": "~3.1.2"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
