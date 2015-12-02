@@ -2,6 +2,10 @@
 
 Generate your own MD5, SHA1, SHA512 and SHA3 encrypted passwords.
 
+## Demo
+
+http://sasalatart.github.io/password-encryptor/
+
 ## Dependencies
 
 Element dependencies are managed via [Bower](http://bower.io/). You can
