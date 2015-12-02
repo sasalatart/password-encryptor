@@ -20,8 +20,8 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.0",
-    "paper-elements": "polymerelements/paper-elements#~1.0.5",
-    "bootstrap": "~3.3.5",
+    "paper-input": "PolymerElements/paper-input#~1.1.1",
+    "paper-radio-group": "PolymerElements/paper-radio-group#~1.0.7",
     "jquery": "~2.1.4",
     "cryptojslib": "~3.1.2"
   },
